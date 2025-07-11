@@ -2,7 +2,9 @@
 
 <!--
 **retamik/retamik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Базовая программа на языке программирования python
+name = "Hello world!"
+print(name)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
